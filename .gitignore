@@ -1,3 +1,4 @@
 *.suo
 PostBookingAutomation/packages/
 PostBookingAutomation/PostBookingAutomation/obj/
+PostBookingAutomation/PostBookingAutomation/bin/
